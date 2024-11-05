@@ -20,15 +20,6 @@ El proyecto está estructurado en varias páginas HTML que representan las difer
 - `carrito.html` - Vista del carrito de compras.
 - `checkout.html` - Página para realizar el pago.
 
-## 🛠️ Instalación
-
-Para poner en marcha el proyecto en tu entorno local, sigue estos pasos:
-
-```bash
-git clone [URL del Repositorio]
-cd [Nombre del Repositorio]
-# Abre las páginas HTML en tu navegador
-
 ⚙️ Uso
 Simplemente abre los archivos HTML en un navegador de tu elección para visualizar y navegar por el Marketplace.
 
@@ -41,3 +32,6 @@ jQuery (opcional) para interactividad simple.
 
 📬 Contacto
 Javier – @nowJavier - nowjav@gmail.com
+
+
+
